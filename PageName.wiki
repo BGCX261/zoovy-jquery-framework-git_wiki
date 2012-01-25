@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+We're still getting started - *please excuse our dust*
+
+Auto-generated documentation can be found here:
+http://www.zoovy.com/webdoc/index.cgi?VERB=DOC&DOCID=51609&keywords=jquery
+
+
+= Details =
+
+We will be issuing new releases periodically on our CDN. 
